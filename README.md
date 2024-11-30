@@ -23,4 +23,5 @@ Below is a basic schema of the database you will be working with:
 |indicator_code|Code representing the debt indicator|`varchar`|
 |debt|Value of the debt indicator for the given country (in current US dollars)|`float`|
 
-## `Solution`
+## `Solution`  
+[sql_notebook_solution](https://github.com/jberouise2/Project-Analyze-International-Debt-Statistics/blob/379e308621115a10d3b4299277e192caaefc18f9/notebook.ipynb)
