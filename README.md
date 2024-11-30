@@ -11,7 +11,7 @@ In this notebook, we are going to analyze international debt data collected by T
 - Which country owes the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
 
-Below is a basic schema of the database you will be working with:
+Below is a basic schema of the database we will be working with:
 
 ## `debt_indicators` table
 
